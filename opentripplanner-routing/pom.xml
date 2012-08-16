@@ -91,6 +91,7 @@
           <filtering>true</filtering>
         </resource>
       </resources>
+<!--
       <plugins>
         <plugin>
           <groupId>pl.project13.maven</groupId>
@@ -109,5 +110,6 @@
           </configuration>
         </plugin>
       </plugins>
+-->
     </build>
 </project>
